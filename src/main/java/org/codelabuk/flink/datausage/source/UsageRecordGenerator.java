@@ -1,6 +1,5 @@
 package org.codelabuk.flink.datausage.source;
 
-import org.apache.calcite.runtime.Resources;
 import org.apache.flink.streaming.api.functions.source.RichParallelSourceFunction;
 import org.codelabuk.flink.datausage.record.UsageRecord;
 
